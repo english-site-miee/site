@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "ru-ru"
+title = "Кафедра ИнЯз МИЭТ"
+theme = "cleanwhite"
+paginate = 5
+
+[params]
+header_image = "img/london_blurred_darker.jpg"
+description = "Персональная страничка кафедры иностранных языков МИЭТ"
