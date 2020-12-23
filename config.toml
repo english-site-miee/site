@@ -1,10 +1,38 @@
 baseURL = "https://foreign-miee.github.io/"
 languageCode = "ru-ru"
-title = "Кафедра ИнЯз МИЭТ"
+title = "Пространство Борисовой Л. В."
 theme = "cleanwhite"
 paginate = 5
 publishDir = "docs/"
+preserveTaxonomyNames = true
+
+
+[outputs]
+home = ["HTML"]
 
 [params]
 header_image = "img/london_blurred_darker.jpg"
-description = "Персональная страничка кафедры иностранных языков МИЭТ"
+description = "Персональная страничка преподавателя МИЭТ Борисовой Ларисы Владимировны"
+
+sidebar_about_description = "Кандидат филологических наук, доцент. Стаж работы по специальности – 28 лет."
+sidebar_avatar = "img/avatar.jpg"
+
+featured_tags = true
+featured_condition_size = 1
+
+about_me = true
+bookmarks = true
+
+omit_categories = false
+
+  [[params.bookmark_link]]
+  title = "MIEE"
+  href =  "https://miet.ru/person/52222"
+
+  [[params.bookmark_link]]
+  title =  "ESGI MIEE"
+  href =  "http://esgi-miet.ru/nashi-avtory/4-authors/349-borisova-larisa-vladimirovna"
+
+  [[params.addtional_menus]]
+  title =  "ОБО МНЕ"
+  href =  "/top/about/"
