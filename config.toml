@@ -1,8 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://foreign-miee.github.io/"
 languageCode = "ru-ru"
 title = "Кафедра ИнЯз МИЭТ"
 theme = "cleanwhite"
 paginate = 5
+publishDir = "docs/"
 
 [params]
 header_image = "img/london_blurred_darker.jpg"
