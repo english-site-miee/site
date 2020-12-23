@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: hugo build
-        uses: lpeaceiris/actions-hugo@v2.4.13
+        uses: peaceiris/actions-hugo@v2.4.13
