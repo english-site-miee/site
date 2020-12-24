@@ -35,4 +35,4 @@ omit_categories = false
 
   [[params.addtional_menus]]
   title =  "ОБО МНЕ"
-  href =  "/top/about/"
+  href =  "/post/about"
