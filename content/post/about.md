@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2020-12-24
 author: "Борисова Лариса"
-image: "img/about.jpg"
+image: "img/about_darker.jpg"
 tags: ["Деятельность"]
 ---
 
