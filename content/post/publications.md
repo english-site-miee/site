@@ -2,7 +2,7 @@
 title: "Публикации"
 subtitle: ""
 description: ""
-date: 2020-12-24
+date: 2020-12-25
 author: "Борисова Лариса"
 image: "img/books_blurred.jpg"
 tags: ["Деятельность"]
